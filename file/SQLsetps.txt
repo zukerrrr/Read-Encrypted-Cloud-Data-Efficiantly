@@ -1,0 +1,2 @@
+SQL
+Next -> SQL Next ->Enter company name->->Click yes to agree for license agreement ->Next ->Next ->select Custom  radio button ->Next -> Deselect books online ->USe local system account -> Select radio button for Mixed mode (Windows authentication and SQL server authentication ) - >select blank password ->Next  ->Next ->Next ->Next ->Finish 
